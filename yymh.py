@@ -43,7 +43,7 @@ if __name__ == '__main__':
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36',
     'Host': 'yymh886.com',
     'Connection': 'Keep-Alive',
-    'Cookie':'inviteriid=3249383; ciu_key=03bc44ee-57b9-40cc-a80e-8ad298518639$183.17.125.117; ticket=f5f8e3b6-2b58-4a1c-8a1c-0f18d0965347; JSESSIONID=y3rcet2xxnx212w89z1w6r45z'
+    'Cookie':'inviteriid=3262785; ciu_key=daa3f4bf-a6e4-4c8d-94b3-5fa4dab9c547$183.17.126.210; ticket=f5f8e3b6-2b58-4a1c-8a1c-0f18d0965347; JSESSIONID=t3ctvpiwz8lf1wdy8217tqgmk'
     }
-    url ='https://yymh886.com/query/book/directory?bookId=1198 '
+    url ='https://yymh886.com/query/book/directory?bookId=1173 '
     dealwithDirectory(url, headers)
